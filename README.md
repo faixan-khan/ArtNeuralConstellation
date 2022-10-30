@@ -10,7 +10,7 @@ The implementations for StyleCWAN1 and StyleCWAN2 models are taken from [Vision-
 
 ## Usage
 
-First download the wikiart dataset from [here]().
+The dataset and all the generated artworks can be downloaded from [here]().
 
 Extract the data in the root directory and simply run the notebooks.
 
