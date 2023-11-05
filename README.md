@@ -1,4 +1,4 @@
-# Wölfflin Affective Generative Analysis 2.0
+# AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art
 
 This repo contains the code for implementation of all the experiments performed in the [report]().
 
