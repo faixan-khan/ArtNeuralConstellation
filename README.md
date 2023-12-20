@@ -10,6 +10,6 @@ The implementations for StyleCWAN1 and StyleCWAN2 models are taken from [Vision-
 
 ## Usage
 
-The dataset, code and all the generated artworks will be made available soon.
+The dataset and all the generated artworks will be made available soon.
 
 
