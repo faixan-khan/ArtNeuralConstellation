@@ -4,29 +4,28 @@ Motivated by the recent success of generative  machine learning as a way of art 
 
 ### Five Aspects for Visual Analysis and Codes
 
-├── (1)Wofflin's five principles
-│   ├── average-wofflin-and-correlation.ipynb
-├── (2)General art principles
-│   ├── proxy learning  [proxy learning repo]()
-│   ├── fileinfo_csv
-│   │   ├── train.csv, val.csv #human art data filenames and style
-│   │   ├── generative.csv #AI art data filenames and model 
-│   ├──  style_attribute.py #styles and attributes used in experiments
-│   ├──  general_principles_density_analysis_Fig3.py
-│   ├──  diff_rg_1800_before_Tab3_1.py
-│   ├──  diff_rg_1800_after_Tab3_2.py
-├── (3)CLIP_OOD_experiments
-│   ├── fileinfo_csv
-│   │   ├── clip_generative.csv 
-│   │   ├── clip_real.csv
-│   │   ├── generative.csv
-│   ├── tnse
-│   ├──  style_attribute.py #styles and attributes used in experiments
-│   ├──  tsneplot_by_pcas_Fig4.py
-│   ├──  cllct_id_ood_Fig5.py
-│   ├──  ood_95_vs_50_Fig6.py
-├── (4)Time
-└── (5)Emotion and Likability
+├── (1)Wofflin's five principles\
+│   ├── average-wofflin-and-correlation.ipynb\
+├── (2)General art principles\
+│   ├── fileinfo_csv\
+│   │   ├── train.csv, val.csv #human art data filenames and style\
+│   │   ├── generative.csv #AI art data filenames and model\
+│   ├──  style_attribute.py #styles and attributes used in experiments\
+│   ├──  general_principles_density_analysis_Fig3.py\
+│   ├──  diff_rg_1800_before_Tab3_1.py\
+│   ├──  diff_rg_1800_after_Tab3_2.py\
+├── (3)CLIP_OOD_experiments\
+│   ├── fileinfo_csv\
+│   │   ├── clip_generative.csv\
+│   │   ├── clip_real.csv\
+│   │   ├── generative.csv\
+│   ├── tnse\
+│   ├──  style_attribute.py #styles and attributes used in experiments\
+│   ├──  tsneplot_by_pcas_Fig4.py\
+│   ├──  cllct_id_ood_Fig5.py\
+│   ├──  ood_95_vs_50_Fig6.py\
+├── (4)Time\
+└── (5)Emotion and Likability\
 
 ### External Codes Referenced
 
