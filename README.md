@@ -6,7 +6,7 @@ Motivated by the recent success of generative  machine learning as a way of art 
 
 1. Wofflin's five principles
 2. General art principles
-3. CLIP_OOD_experiments
+3. OOD analysis in CLIP space
 4. Time
 5. Emotion and Likability
 
