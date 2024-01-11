@@ -12,8 +12,9 @@ Motivated by the recent success of generative  machine learning as a way of art 
 
 ### External Codes Referenced
 
-- The implementations for StyleGAN1 and StyleGAN2 models are taken from [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch) and [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) respectively.
-- The implementations for StyleCAN1 and StyleCAN2 models are taken from [Vision-CAIR/WAGA](https://github.com/Vision-CAIR/WAGA).
-- The implementations for StyleCWAN1 and StyleCWAN2 models are taken from [Vision-CAIR/CWAN](https://github.com/Vision-CAIR/CWAN).
-- The implementations for StyleCWAN1 and StyleCWAN2 models are taken from [Vision-CAIR/CWAN](https://github.com/Vision-CAIR/CWAN).
-- The implementations for Proxy Learning  are taken from [diana-s-kim/ProxyLearning_torch](https://github.com/diana-s-kim/ProxyLearning_torch).
+- StyleGAN1 and StyleGAN2 models are taken from [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch) and [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) respectively.
+- StyleCAN1 and StyleCAN2 models are taken from [Vision-CAIR/WAGA](https://github.com/Vision-CAIR/WAGA).
+- StyleCWAN1 and StyleCWAN2 models are taken from [Vision-CAIR/CWAN](https://github.com/Vision-CAIR/CWAN).
+- StyleCWAN1 and StyleCWAN2 models are taken from [Vision-CAIR/CWAN](https://github.com/Vision-CAIR/CWAN).
+- Add VQGAN and Stable Diffusion
+- Proxy Learning is taken from [diana-s-kim/ProxyLearning_torch](https://github.com/diana-s-kim/ProxyLearning_torch).
