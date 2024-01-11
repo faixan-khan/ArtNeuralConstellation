@@ -8,11 +8,12 @@ from matplotlib.lines import Line2D
 import matplotlib as mpl
 import style_attribute
 
+
+#tsneplot_by_pcas_Fig4: Fig4, AI art vs human art speparation t-sne plots according to different pca
+
 target=["pca-20","pca-30","pca-50","pca-70","pca-95","pca-all"]
-#models=["StyleGAN1","StyleGAN2","StyleCAN1","StyleCAN2","StyleCWAN1","StyleCWAN2","StableDiffusion","VQGAN"]
 models=["StyleGAN2","StyleCAN1","StableDiffusion","VQGAN"]
 x=[20,30,50,70,95,100]
-#colors=['red','orange','yellow','greenyellow','green','deepskyblue','slateblue','magenta','gray']
 colors=['black','darkgray','cornflowerblue','darkslateblue']
 
 
