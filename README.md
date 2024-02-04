@@ -10,6 +10,6 @@ The implementations for StyleCWAN1 and StyleCWAN2 models are taken from [Vision-
 
 ## Usage
 
-The dataset and all the generated artwork will be made available soon.
+The dataset and all the generated artwork can be downloaded from [here](https://neuralartconst.s3.us-east-2.amazonaws.com/datasets.zip).
 
 
