@@ -1,6 +1,6 @@
 # AI Art Neural Constellation
-This repo contains the implementation codes for all the experiments performed in the paper titled "AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art" [report]().
-Motivated by the recent success of generative  machine learning as a way of art creation, this paper aims to demonstrate  comparative and statistical analysis  between 6,000 WikiArt and 3,200 AI-generated artworks. Five important aspects to understand visual arts are grounded in the analysis; the codes and related files are categorized by the five aspects as below. 
+This repo contains the implementation codes for all the experiments performed in the paper titled "AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art" [report](https://arxiv.org/abs/2402.02453).
+Motivated by the recent success of generative  machine learning as a way of art creation, this paper aims to demonstrate  comparative and statistical analysis  between 6,000 WikiArt and 3,200 AI-generated artworks. Five important aspects of understanding visual arts are grounded in the analysis; the codes and related files are categorized by the five aspects below. 
 
 ### Five Aspects for Visual Analysis and Codes
 
