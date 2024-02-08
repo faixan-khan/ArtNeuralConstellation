@@ -1,6 +1,6 @@
 # AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art
 
-This repo contains the code for the implementation of all the experiments performed in the [report]().
+This repo contains the code for the implementation of all the experiments performed in the [report](https://arxiv.org/abs/2402.02453).
 
 The implementations for StyleGAN1 and StyleGAN2 models are taken from [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch) and [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) respectively.
 
