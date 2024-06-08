@@ -10,6 +10,9 @@ Motivated by the recent success of generative  machine learning as a way of art 
 4. Time
 5. Emotion and Likability
 
+### Dataset
+The dataset can be downloaded from [here](https://neuralartconst.s3.us-east-2.amazonaws.com/datasets.zip).
+
 ### External Codes Referenced
 
 - StyleGAN1 and StyleGAN2 models are taken from [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch) and [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) respectively.
