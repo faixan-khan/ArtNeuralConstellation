@@ -11,7 +11,7 @@ Motivated by the recent success of generative  machine learning as a way of art 
 5. Emotion and Likability
 
 ### Dataset
-The dataset can be downloaded from [here](https://neuralartconst.s3.us-east-2.amazonaws.com/datasets.zip).
+The dataset can be downloaded from [here](https://neuralartconst.s3.us-east-2.amazonaws.com/dataset.zip).
 
 ### External Codes Referenced
 
